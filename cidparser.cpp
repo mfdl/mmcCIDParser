@@ -6,7 +6,7 @@ std::string get_card_mfr_id(uint8_t mid)
     switch (mid)
     {
         case 0x02:
-            return "Sandisk_New";
+            return "Sandisk_New"; //what?
         case 0x11:
            return"Toshiba";
         case 0x13:
@@ -28,7 +28,7 @@ std::string get_card_mfr_id(uint8_t mid)
         case 0xf4:
            return "Biwin";
         case 0xfe:
-           return "Micron";
+           return "Micron"; //mmm?
         default:
            return "Unknown";
     }

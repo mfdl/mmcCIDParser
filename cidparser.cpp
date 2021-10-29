@@ -46,7 +46,6 @@ std::string get_card_type(uint8_t type)
            return "POP";
         case 0x03:
            return "RSVD";
-            break;
         default:
            return"Unknown";
     }

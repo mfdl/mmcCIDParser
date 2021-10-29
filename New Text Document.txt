@@ -1,0 +1,83 @@
+Waiting for mtk usb device... ok
+BootMode : BootRom[COM31]
+USBDriver : wdm_usb:10.0.19041.1202:06/21/2006
+Connecting to BootROM... ok
+BRom stage Re-configuration
+● Chipset	0707:8A00:CA00:0000{MT6768}
+● Chipset ID	Helio P65
+Gathering configuration info...
+● ME_ID 70E1C24F7E2A1962D6FDD105943E983E
+● SOC_ID C9FE951CCD088E73596E115EA79F077094D611253433A99CDEE7F6A0B6582E3C
+BRom::SEC:{000000E7}[SBC:Yes:SLA:Yes:DAA:Yes]
+Disabling watchdog..
+BRom::Secure config:{0x1}
+Sending BRom mem_regs..
+Sending certificate file...
+Sending usb control data...
+BRom::WinUSB::DevHnd{0x89cddc8}
+Executing certificate file...
+Dumping Dram data(000437f0)...
+Re-connecting to BootROM...
+BRom::SEC:{00000000}[SBC:No:SLA:No:DAA:No]
+EMI Info(MTK_BLOADER_INFO_v40:preloader_merlin.bin:0xa))
+DEVINFO_EMCP:0x0:{MCP(eMMC+LPDDR3):90014a68423861503e:JhB8aP>:SkHynix}RAM Size(3.00GB)
+DEVINFO_EMCP:0x1:{MCP(eMMC+LP_DDR4X):150100335636434d42::Samsung}RAM Size(2.00GB)
+DEVINFO_EMCP:0x2:{MCP(eMMC+LP_DDR4X):150100334836434142::Samsung}RAM Size(2.00GB)
+DEVINFO_EMCP:0x3:{MCP(eMMC+LP_DDR4X):13014e53304a394b38:NS0J9K8:Micron}RAM Size(0B)
+DEVINFO_EMCP:0x4:{MCP(eMMC+LP_DDR4X):150100444836444142::Samsung}RAM Size(0B)
+DEVINFO_EMCP:0x5:{MCP(eMMC+LP_DDR4X):150100445036444142::Samsung}RAM Size(0B)
+DEVINFO_EMCP:0x6:{MCP(eMMC+LP_DDR4X):13014e47314a395339:NG1J9S9:Micron}RAM Size(0B)
+DEVINFO_EMCP:0x7:{MCP(eMMC+LP_DDR4X):13014e53304a394a38:NS0J9J8:Micron}RAM Size(3.00GB)
+DEVINFO_EMCP:0x8:{MCP(eMMC+LP_DDR4X):150100445636444142::Samsung}RAM Size(0B)
+DEVINFO_EMCP:0x9:{MCP(eMMC+LP_DDR4X):90014a684445615033:JhDEaP3:SkHynix}RAM Size(0B)
+Sending download agent...
+BRom::DA::HDR{FFFFFFEA1E0E00FA00000FE1}
+Transferring control to DA...
+Wait for 1st DA sync cahr...
+Successfully received DA sync cahr
+Setup device enviroment...
+Setup device parametres...
+Successfully received 1nd DA sync signal
+● USBSpeed	high-speed
+===== Configure DRAM controller =====
+Initialize Dram(0xd20)...
+Dram initialized
+Executing download agent...
+● Sram	448.00KB
+● Dram	4.00GB
+Booting download agent...
+Initialize internal crypto engine...!
+Initialize sbrom dxcc driver...
+===== wait for DA H/W detection report =====
+● ChipID	0xca008a000707
+● DaUID	0x70e0
+● Storage	eMMC
+● Boot1	4.00MB
+● Boot1	4.00MB
+● Rpmb	16.00MB
+● Userarea	116.48GB
+● MLC	00000001
+● SLC	00000001
+● EOL	00000001
+● LCycle	00000000
+● CID	13014E47314A395339100377176047FD
+● MFRID	0x13
+● Vendor	Micron
+● Card BGA 	BGA (Discrete embedded)
+● OEMID 	0x4e
+● Product 	G1J9S9:47314a395339
+● Revision 	1.0
+● Card SN 	03771760
+● MFDate 	4/2020
+● Disk Len 	0x1d20800000:116.51GB
+● RNID	6A407D274CCDDDFBDD467927190FE66E
+● HRID	A625F769463F4A8D697616C66424A1B0
+● OTP	STATUS_OTP_UNLOCKED
+● Battery	0xe80f0000
+● RPMB	EMMC_RPMB_KEY_EXIST
+FT_RPMB_WRITTEN_BEFORE_DL
+● FW Info	0x12345678
+Gathering partitions info...
+===== wait for DA S/W detection report =====
+● Time elapsed 00:min:05:sec
+● Thread UID{{cb7de2c8d30340acba71202b5a15b64f}}

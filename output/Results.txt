@@ -1,0 +1,300 @@
+.....................................................
+Reading cid 90014A4838473475920129CB588F84B6
+.....................................................
+CIDInfo::ManufacturerId: 0x90
+CIDInfo::Manufacturer: SkHynix
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x4a
+CIDInfo::ProductName: H8G4u?:483847347592
+CIDInfo::ProductRevision: 0:1
+CIDInfo::ProductSerialNumber: 0x29cb588f
+CIDInfo::ManufacturingDate: 8/2017
+.....................................................
+.....................................................
+Reading cid 150100523331314D4200799CCE1D4249
+.....................................................
+CIDInfo::ManufacturerId: 0x15
+CIDInfo::Manufacturer: Samsung
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x0
+CIDInfo::ProductName: R311MB:523331314d42
+CIDInfo::ProductRevision: 0:0
+CIDInfo::ProductSerialNumber: 0x799cce1d
+CIDInfo::ManufacturingDate: 4/2015
+.....................................................
+.....................................................
+Reading cid 1501003030303030305620140423582F
+.....................................................
+CIDInfo::ManufacturerId: 0x15
+CIDInfo::Manufacturer: Samsung
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x0
+CIDInfo::ProductName: 000000:303030303030
+CIDInfo::ProductRevision: 5:6
+CIDInfo::ProductSerialNumber: 0x20140423
+CIDInfo::ManufacturingDate: 5/2021
+.....................................................
+.....................................................
+Reading cid 150100514E5730304D00EF66D665C111
+.....................................................
+CIDInfo::ManufacturerId: 0x15
+CIDInfo::Manufacturer: Samsung
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x0
+CIDInfo::ProductName: QNW00M:514e5730304d
+CIDInfo::ProductRevision: 0:0
+CIDInfo::ProductSerialNumber: 0xef66d665
+CIDInfo::ManufacturingDate: 12/2014
+.....................................................
+.....................................................
+Reading cid 150100515836334D4200DE07CC69573E
+.....................................................
+CIDInfo::ManufacturerId: 0x15
+CIDInfo::Manufacturer: Samsung
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x0
+CIDInfo::ProductName: QX63MB:515836334d42
+CIDInfo::ProductRevision: 0:0
+CIDInfo::ProductSerialNumber: 0xde07cc69
+CIDInfo::ManufacturingDate: 5/2020
+.....................................................
+.....................................................
+Reading cid 150100514436334D4203B8A70647B693
+.....................................................
+CIDInfo::ManufacturerId: 0x15
+CIDInfo::Manufacturer: Samsung
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x0
+CIDInfo::ProductName: QD63MB:514436334d42
+CIDInfo::ProductRevision: 0:3
+CIDInfo::ProductSerialNumber: 0xb8a70647
+CIDInfo::ManufacturingDate: 11/2019
+.....................................................
+.....................................................
+Reading cid 880103534C443634475599D61936B6BF
+.....................................................
+CIDInfo::ManufacturerId: 0x88
+CIDInfo::Manufacturer: Foresee
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x3
+CIDInfo::ProductName: SLD64G:534c44363447
+CIDInfo::ProductRevision: 5:5
+CIDInfo::ProductSerialNumber: 0x99d61936
+CIDInfo::ManufacturingDate: 11/2019
+.....................................................
+.....................................................
+Reading cid 13014E47314A395238100E54BC9D18B7
+.....................................................
+CIDInfo::ManufacturerId: 0x13
+CIDInfo::Manufacturer: Micron
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x4e
+CIDInfo::ProductName: G1J9R8:47314a395238
+CIDInfo::ProductRevision: 1:0
+CIDInfo::ProductSerialNumber: 0x0e54bc9d
+CIDInfo::ManufacturingDate: 1/2021
+.....................................................
+.....................................................
+Reading cid 1501004B3558564D42014663DC014171
+.....................................................
+CIDInfo::ManufacturerId: 0x15
+CIDInfo::Manufacturer: Samsung
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x0
+CIDInfo::ProductName: K5XVMB:4b3558564d42
+CIDInfo::ProductRevision: 0:1
+CIDInfo::ProductSerialNumber: 0x4663dc01
+CIDInfo::ManufacturingDate: 4/2014
+.....................................................
+.....................................................
+Reading cid 150100514531334D420D750E90548403
+.....................................................
+CIDInfo::ManufacturerId: 0x15
+CIDInfo::Manufacturer: Samsung
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x0
+CIDInfo::ProductName: QE13MB:514531334d42
+CIDInfo::ProductRevision: 0.13
+CIDInfo::ProductSerialNumber: 0x750e9054
+CIDInfo::ManufacturingDate: 8/2017
+.....................................................
+.....................................................
+Reading cid 150100514531334D420D750E90548403
+.....................................................
+CIDInfo::ManufacturerId: 0x15
+CIDInfo::Manufacturer: Samsung
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x0
+CIDInfo::ProductName: QE13MB:514531334d42
+CIDInfo::ProductRevision: 0.13
+CIDInfo::ProductSerialNumber: 0x750e9054
+CIDInfo::ManufacturingDate: 8/2017
+.....................................................
+.....................................................
+Reading cid 51000115413336581F5803423538CD06
+.....................................................
+CIDInfo::ManufacturerId: 0x51
+CIDInfo::Manufacturer: Unknown
+CIDInfo::Card Type: RemovableDevice
+CIDInfo::OEMApplicationId: 0x1
+CIDInfo::ProductName: A36X:15413336581f
+CIDInfo::ProductRevision: 5.8
+CIDInfo::ProductSerialNumber: 0x03423538
+CIDInfo::ManufacturingDate: 12/2026
+.....................................................
+.....................................................
+Reading cid 15010051583633414203581F06CD3835
+.....................................................
+CIDInfo::ManufacturerId: 0x15
+CIDInfo::Manufacturer: Samsung
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x0
+CIDInfo::ProductName: QX63AB:515836334142
+CIDInfo::ProductRevision: 0.3
+CIDInfo::ProductSerialNumber: 0x581f06cd
+CIDInfo::ManufacturingDate: 3/2021
+.....................................................
+.....................................................
+Reading cid 90014A484347386134A221F8C503C553
+.....................................................
+CIDInfo::ManufacturerId: 0x90
+CIDInfo::Manufacturer: SkHynix
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x4a
+CIDInfo::ProductName: HCG8a4:484347386134
+CIDInfo::ProductRevision: 10.2
+CIDInfo::ProductSerialNumber: 0x21f8c503
+CIDInfo::ManufacturingDate: 12/2018
+.....................................................
+.....................................................
+Reading cid 8F010055593543533012E07AE3ABC607
+.....................................................
+CIDInfo::ManufacturerId: 0x8f
+CIDInfo::Manufacturer: Unknown
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x0
+CIDInfo::ProductName: UY5CS0:555935435330
+CIDInfo::ProductRevision: 1.2
+CIDInfo::ProductSerialNumber: 0xe07ae3ab
+CIDInfo::ManufacturingDate: 12/2019
+.....................................................
+.....................................................
+Reading cid 8F0100555935435330 
+.....................................................
+CIDInfo::ManufacturerId: 0x8f
+CIDInfo::Manufacturer: UNIC
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x0
+CIDInfo::ProductName: UY5CS0:555935435330
+CIDInfo::ProductRevision: 0.0
+CIDInfo::ProductSerialNumber: 0x73005827
+CIDInfo::ManufacturingDate: 14/2015
+.....................................................
+.....................................................
+Reading cid 8F010055593543533012E07AE3ABC607
+.....................................................
+CIDInfo::ManufacturerId: 0x8f
+CIDInfo::Manufacturer: UNIC
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x0
+CIDInfo::ProductName: UY5CS0:555935435330
+CIDInfo::ProductRevision: 1.2
+CIDInfo::ProductSerialNumber: 0xe07ae3ab
+CIDInfo::ManufacturingDate: 12/2019
+.....................................................
+.....................................................
+Reading cid 8F010055593543533012E07AE3ABC607
+.....................................................
+CIDInfo::ManufacturerId: 0x8f
+CIDInfo::Manufacturer: UNIC
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x0
+CIDInfo::ProductName: UY5CS0:555935435330
+CIDInfo::ProductRevision: 1.2
+CIDInfo::ProductSerialNumber: 0xe07ae3ab
+CIDInfo::ManufacturingDate: 12/2019
+.....................................................
+.....................................................
+Reading cid 13014E53304A394E381013F22650A6ED
+.....................................................
+CIDInfo::ManufacturerId: 0x13
+CIDInfo::Manufacturer: Micron
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x4e
+CIDInfo::ProductName: S0J9N8:53304a394e38
+CIDInfo::ProductRevision: 1.0
+CIDInfo::ProductSerialNumber: 0x13f22650
+CIDInfo::ManufacturingDate: 10/2019
+.....................................................
+.....................................................
+Reading cid 150100445836384D4200CFE0D08AB71D 
+.....................................................
+CIDInfo::ManufacturerId: 0x15
+CIDInfo::Manufacturer: Samsung
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x0
+CIDInfo::ProductName: DX68MB:445836384d42
+CIDInfo::ProductRevision: 0.0
+CIDInfo::ProductSerialNumber: 0xcfe0d08a
+CIDInfo::ManufacturingDate: 11/2020
+.....................................................
+.....................................................
+Reading cid 880103534C443634475599D61936B6BF
+.....................................................
+CIDInfo::ManufacturerId: 0x88
+CIDInfo::Manufacturer: Foresee
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x3
+CIDInfo::ProductName: SLD64G:534c44363447
+CIDInfo::ProductRevision: 5.5
+CIDInfo::ProductSerialNumber: 0x99d61936
+CIDInfo::ManufacturingDate: 11/2019
+.....................................................
+.....................................................
+Reading cid 70010054413238333223272E383666B9
+.....................................................
+CIDInfo::ManufacturerId: 0x70
+CIDInfo::Manufacturer: Kingston
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x0
+CIDInfo::ProductName: TA2832:544132383332
+CIDInfo::ProductRevision: 2.3
+CIDInfo::ProductSerialNumber: 0x272e3836
+CIDInfo::ManufacturingDate: 6/2019
+.....................................................
+.....................................................
+Reading cid 8F010055593543533012E07AE3ABC607
+.....................................................
+CIDInfo::ManufacturerId: 0x8f
+CIDInfo::Manufacturer: UNIC
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x0
+CIDInfo::ProductName: UY5CS0:555935435330
+CIDInfo::ProductRevision: 1.2
+CIDInfo::ProductSerialNumber: 0xe07ae3ab
+CIDInfo::ManufacturingDate: 12/2019
+.....................................................
+.....................................................
+Reading cid kjk
+.....................................................
+CIDInfo::ManufacturerId: 0x0
+CIDInfo::Manufacturer: Unknown
+CIDInfo::Card Type: RemovableDevice
+CIDInfo::OEMApplicationId: 0x0
+CIDInfo::ProductName: :00000000003e
+CIDInfo::ProductRevision: 11.1
+CIDInfo::ProductSerialNumber: 0x73003827
+CIDInfo::ManufacturingDate: 12/2017
+.....................................................
+.....................................................
+Reading cid 70010054413238333223272E383666B9
+.....................................................
+CIDInfo::ManufacturerId: 0x70
+CIDInfo::Manufacturer: Kingston
+CIDInfo::Card Type: BGA (Discrete embedded)
+CIDInfo::OEMApplicationId: 0x0
+CIDInfo::ProductName: TA2832:544132383332
+CIDInfo::ProductRevision: 2.3
+CIDInfo::ProductSerialNumber: 0x272e3836
+CIDInfo::ManufacturingDate: 6/2019
+.....................................................
